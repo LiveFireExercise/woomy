@@ -1,6 +1,6 @@
 const config = {
   // ID's
-  "owners": [], // Adding your ID here will give you access to dangerous commands like eval. Please be careful with who you add here! Eval can be used to modify the host machine.
+  "owners": [561987403037016114], // Adding your ID here will give you access to dangerous commands like eval. Please be careful with who you add here! Eval can be used to modify the host machine.
 
     // Host options
     "devmodeEnabled": false, // true or false
@@ -9,7 +9,7 @@ const config = {
     "consoleLogs": "", // Channel ID, or blank to disable
 
   // Tokens
-  "token": "", // Your bot's token.
+  "token": ${{ secrets.BOTKEY }}, // Your bot's token.
   "devtoken": "", // (optional) another token, meant for a bot used for development
   "dblkey": "", // (optional) top.gg key, sends bot statistics to top.gg. You do not need this.
   "sentry": "",
