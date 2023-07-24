@@ -12,7 +12,7 @@
     "better-sqlite3": "^7.4.0",
     "chalk": "^4.1.1",
     "dblapi.js": "^2.4.1",
-    "discord-paginator.js": "github:mudkipscience/discord-paginator.js",
+    "discord-paginator.js": "gitdab:mudkipscience/discord-paginator.js",
     "discord.js": "^12.5.3",
     "enmap": "^5.8.5",
     "ffmpeg-static": "^4.3.0",
