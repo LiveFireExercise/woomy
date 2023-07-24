@@ -34,12 +34,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mudkipscience/woomy.git"
+    "url": "git+https://github.com/LiveFireExercise/woomy.git"
   },
   "author": "mudkipscience",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mudkipscience/woomy/issues"
+    "url": "https://github.com/LiveFireExercise/woomy/issues"
   },
-  "homepage": "https://github.com/mudkipscience/woomy#readme"
+  "homepage": "https://github.com/LiveFireExercise/woomy#readme"
 }
